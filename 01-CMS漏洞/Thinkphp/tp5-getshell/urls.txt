@@ -1,3 +1,0 @@
-http://www.xxx.com/
-http://www.yyy.com/public/
-http://www.zzz.com:8080/
